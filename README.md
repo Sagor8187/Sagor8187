@@ -1,4 +1,8 @@
 ## Hi, I'm Sagor Sutradhar 👋  
+# Hi, I'm Sagor Sutradhar 👋
+
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=FF5733&center=true&width=500&lines=Hi,+I'm+Sagor+Sutradhar+%F0%9F%91%8B)
+
 💻 Frontend Developer | Passionate about building beautiful & responsive web applications  
 
 ### 🚀 About Me

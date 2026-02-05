@@ -1,38 +1,139 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=FF5733&center=true&width=500&lines=Hi,I'm+Sagor+Sutradhar+%F0%9F%91%8B)
+<!-- ================= HEADER ANIMATION ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Sagor%20Sutradhar&fontSize=48&fontAlignY=40&animation=fadeIn" />
 
-💻 Frontend Developer | Passionate about building beautiful & responsive web applications  
+<!-- ================= TYPING ANIMATION ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Frontend+%26+Backend+Enthusiast;Building+Modern+Web+Applications+🚀" />
+</p>
 
-### 🚀 About Me
-- 🔭 I’m currently working on **Frontend Projects**  
-- 🌱 I’m currently learning **JavaScript, Tailwind CSS & React**  
-- 👯 I’m looking to collaborate on **exciting frontend projects**  
-- 🤔 I’m looking for help with **improving my React & JavaScript skills**  
-- 💬 Ask me about **HTML, CSS, JavaScript, Tailwind CSS, bootstrap**  
-- 📫 How to reach me:sdsagor8187@gmail.com
-- ⚡ Fun fact: I love turning designs into interactive web pages 🚀  
-### 🎯 Career Objective  
+<p align="center">
+  💻 Passionate about building beautiful, scalable & responsive web applications
+</p>
 
-As a passionate **Frontend Developer**, I love transforming ideas into modern, responsive, and user-friendly websites.  
-My goal is to master **JavaScript, Tailwind CSS, and React** while contributing to projects that deliver real value.  
-I’m focused on clean code, elegant design, and continuous learning to grow as a professional developer. 🚀
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/216656980-6f6f9c3e-2e25-4b3f-a3c4-5f3f3c64cfc0.gif" width="100%" />
+
+## 🚀 About Me
+
+- 🔭 Currently working on **Full Stack MERN Projects**
+- 🌱 Learning **Advanced React, Node.js & MongoDB**
+- 👯 Looking to collaborate on **Real-World Web Apps**
+- 🤔 Improving **JavaScript & React Performance**
+- 💬 Ask me about **HTML, CSS, JS, React, Tailwind, Node**
+- ⚡ Fun fact: I love turning UI designs into live products 🚀
+
+📫 **Email:** `sdsagor8187@gmail.com`
+
+---
+
+## 🛠 Tech Stack (Animated)
+
+### 🛠 Tech Stack
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,netlify" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=node,express,mongodb,python,c,java,git,github" />
+</p>
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sdsagor.sd.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sagor_sutradhar_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagor-sutradhar-895199383) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sagor8187) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sdsagor8187@gmail.com) 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sagor8187&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sagor8187&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagor8187&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sagor8187&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
 ---
 
+## ⚙ MERN Stack Breakdown
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎨 Frontend
+- HTML5, CSS3
+- JavaScript (ES6+)
+- React.js
+- Tailwind CSS, Bootstrap
+
+### 🧠 Backend
+- Node.js
+- Express.js
+- REST API
+
+### 🗄 Database
+- MongoDB
+- MySQL
+
+->Other Language 
+-Python
+-C
+-Java
+---
+
+## 🚀 Featured Projects
+
+- 🛒 **E-Commerce MERN App**
+- 🧑‍💼 **Job Portal Web Application**
+- 🔐 **JWT Authentication System**
+- ✅ **Advanced To-Do App**
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/216656980-6f6f9c3e-2e25-4b3f-a3c4-5f3f3c64cfc0.gif" width="100%" />
+
+## 📊 GitHub Stats (Clean & Smooth)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sagor8187&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Sagor8187&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagor8187&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+![snake gif](https://github.com/Sagor8187/Sagor8187/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sagor8187&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://facebook.com/sdsagor.sd.9">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://instagram.com/sagor_sutradhar_1">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/sagor-sutradhar-895199383">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sdsagor8187@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+✨ “Code • Learn • Build • Repeat” ✨
+</p>
+
+<!-- ================= FOOTER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />

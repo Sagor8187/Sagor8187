@@ -27,9 +27,6 @@
 
 ---
 
-## 🛠 Tech Stack (Animated)
-
-### 🛠 Tech Stack
 
 ### 🛠 Tech Stack
 

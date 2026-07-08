@@ -77,23 +77,6 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/216656980-6f6f9c3e-2e25-4b3f-a3c4-5f3f3c64cfc0.gif" width="100%" />
-
-## 📊 GitHub Stats (Clean & Smooth)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sagor8187&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sagor8187&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagor8187&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-
 ## 🌐 Connect With Me
 
 <p align="center">

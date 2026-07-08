@@ -93,19 +93,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagor8187&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
----
-
-## 🐍 Contribution Snake Animation
-
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sagor8187&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 

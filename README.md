@@ -3,7 +3,7 @@
 
 <!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Frontend+%26+Backend+Enthusiast;Building+Modern+Web+Applications+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;Next+%7C+React+%7C+Node+%7C+MongoDB;Frontend+%26+Backend+Enthusiast;Building+Modern+Web+Applications+🚀" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 - 🌱 Learning **Advanced React, Node.js & MongoDB**
 - 👯 Looking to collaborate on **Real-World Web Apps**
 - 🤔 Improving **JavaScript & React Performance**
-- 💬 Ask me about **HTML, CSS, JS, React, Tailwind, Node**
+- 💬 Ask me about **HTML, CSS, JS, React js, Next Js, Express Js, Mongo DB, Tailwind, Node**
 - ⚡ Fun fact: I love turning UI designs into live products 🚀
 
 📫 **Email:** `sdsagor8187@gmail.com`
@@ -37,9 +37,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=node,express,mongodb,python,c,java,git,github" />
 </p>
-
-
-
 
 
 
@@ -62,7 +59,7 @@
 - MongoDB
 - MySQL
 
-->Other Language 
+### Other Language 
 -Python
 -C
 -Java
